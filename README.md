@@ -1,5 +1,5 @@
 # homework 2
 
-OS - Windows
-IDE - VS Code
-Сompiler - MSVC
+OS - Windows <br />
+IDE - VS Code <br />
+Сompiler - MSVC <br />
